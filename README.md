@@ -1,4 +1,4 @@
 # Brain-Tumor-Detection
 
-Detection :- UNet
-Classification :- ResNet50
+### Detection :- UNet
+### Classification :- ResNet50
